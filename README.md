@@ -1,2 +1,2 @@
 # Curso-de-IA
-Aqui estão todos os códigos feito no curso de assistente de desenvolvimento em Inteligência Artificial na FATESG
+Aqui estão todos os códigos feito no curso de assistente de desenvolvimento em Inteligência Artificial na FATESG, todos feitos e testados no VScode.
